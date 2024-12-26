@@ -1,3 +1,7 @@
+# For the TryHackMe room, Madness, at one point during the challenge the user must figure out the secret 
+# number to continue looking for the flags. An easy way to complete this part of the challenge is either 1) 
+# using an application like Burpsuite, or 2) creating a python script to automate it which is shown below
+
 import requests
 
 url = "http://10.10.226.50/th1s_1s_h1dd3n/?"     # base URL
