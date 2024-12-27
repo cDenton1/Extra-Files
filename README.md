@@ -8,7 +8,9 @@ Labeling convention: <b>Event Type or Platform - Name of Event/Challenge</b> <br
 |------------------------|---------|
 | In Person              | ip      |
 | TryHackMe              | thm     |
+| CryptoHack             | ch      |
 
 | Events/Challenges for Current Files | Platform |
 |-------------------------------------|----------|
-| Madness                             | TryHackMe |
+| Madness                            | TryHackMe |
+| Introduction to CryptoHack        | CryptoHack |
