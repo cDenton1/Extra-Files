@@ -15,3 +15,4 @@ Labeling convention: <b>Event Type or Platform - Name of Event/Challenge</b> <br
 | Madness                            | TryHackMe |
 | Introduction to CryptoHack        | CryptoHack |
 | That's The Ticket                  | TryHackMe |
+| MagpieCTF (MPCTF)                  | In Person |
