@@ -1,4 +1,4 @@
-from Crypto.Util.number import long_to_bytes, inverse
+from Crypto.Util.number import long_to_bytes, inverse    # handle converting large number back into og string and modular inverse
 
 p = 961538449797931913175965696759    # p value found through factoring n
 q = 967319996044712948532221324531    # q value found through factoring n
