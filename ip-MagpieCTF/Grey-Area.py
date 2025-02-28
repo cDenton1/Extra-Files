@@ -11,5 +11,5 @@ n = 930115369455374918279214292565370334148036289536095273895029    # provided n
 x = (p - 1) * (q - 1)    # compute x, Euler’s Totient Function, required for computing d
 d = inverse(e, x)        # compute modular inverse
 
-m = pow(c, d, n)    # decrypting ciphertext
-print(long_to_bytes(m).decode())    # converting m to bytes, and printing
+m = pow(c, d, n)    # decrypt ciphertext
+print(long_to_bytes(m).decode())    # convert m to bytes, and print
