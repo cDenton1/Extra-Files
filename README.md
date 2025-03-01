@@ -2,7 +2,7 @@
 
 A repository to store any files I create to solve any CTF challenges <br>
 
-Labeling convention: <b>Event Type or Platform - Name of Event/Challenge</b> <br>
+Labeling convention: <b>Event Type/Platform - Name of Event/Challenge</b> <br>
 
 | Types                  | Acronym |
 |------------------------|---------|
