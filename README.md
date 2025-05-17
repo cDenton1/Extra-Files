@@ -29,3 +29,5 @@ Labeling convention: **Event Platform - Name of Event/Challenge** <br>
 - **Imp3rf3ct.py**: Imp3rf3ct, decrypt the ciphertext via the cube root attack method
 - **Inverse-Converse.py**: Inverse Converse, decrypt the ciphertext using the provided c and k values
 - Read my writeup for each challenge on my blog, [MagpieCTF 2025](https://cdenton1.github.io/2025/02/28/MagpieCTF-25.html)
+### Bandit - OverTheWire
+- **bandit24.sh**: shell script used for completing level 23 -> 24
