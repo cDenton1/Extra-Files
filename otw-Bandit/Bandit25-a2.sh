@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 for i in {0000..3333}
 do
