@@ -1,8 +1,8 @@
 # Extra Files
 
-This repository is used for storing any files I create to solve any CTF challenges or online practice <br>
+This repository is used for storing any files I create to solve any CTF challenges or online practice
 
-Labeling convention: **Event Platform - Name of Event/Challenge** <br>
+Labeling convention: **Event Platform - Name of Event/Challenge**
 
 | Platform               | Acronym |
 |------------------------|---------|
@@ -31,3 +31,6 @@ Labeling convention: **Event Platform - Name of Event/Challenge** <br>
 - Read my writeup for each challenge on my blog, [MagpieCTF 2025](https://cdenton1.github.io/2025/02/28/MagpieCTF-25.html)
 ### Bandit - OverTheWire
 - **bandit24.sh**: shell script used for completing level 23 -> 24
+- **bandit25.sh**: shell script used for completing level 24 -> 25
+- **bandit25-a2.sh**: more complex shell script for completing level 24 -> 25
+- Read about my experience and my writeup for each level on my blog, [Bandit Writeup - OverTheWire](https://cdenton1.github.io/2025/05/19/Bandit-Writeup-OverTheWire.html)
