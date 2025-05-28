@@ -6,10 +6,11 @@ Labeling convention: **Event Platform - Name of Event/Challenge**
 
 | Platform               | Acronym |
 |------------------------|---------|
-| In Person              | ip      |
+| In Person Event        | ip      |
 | TryHackMe              | thm     |
 | CryptoHack             | ch      |
 | OverTheWire            | otw     |
+| PicoCTF                | pctf    |
 
 <br>
 
@@ -28,9 +29,9 @@ Labeling convention: **Event Platform - Name of Event/Challenge**
 - **Grey-Area.py**: Grey Area, decrypt the ciphertext via the factoring n attack method
 - **Imp3rf3ct.py**: Imp3rf3ct, decrypt the ciphertext via the cube root attack method
 - **Inverse-Converse.py**: Inverse Converse, decrypt the ciphertext using the provided c and k values
-- Read my writeup for each challenge on my blog, [MagpieCTF 2025](https://cdenton1.github.io/2025/02/28/MagpieCTF-25.html)
+- Read more about each challenge on my blog, [MagpieCTF 2025](https://cdenton1.github.io/2025/02/28/MagpieCTF-25.html)
 ### Bandit - OverTheWire
 - **bandit24.sh**: shell script used for completing level 23 -> 24
 - **bandit25.sh**: shell script used for completing level 24 -> 25
 - **bandit25-a2.sh**: more complex shell script for completing level 24 -> 25
-- Read about my experience and my writeup for each level on my blog, [Bandit Writeup - OverTheWire](https://cdenton1.github.io/2025/05/19/Bandit-Writeup-OverTheWire.html)
+- Read about my experience and writeup for each level on my blog, [Bandit Writeup - OverTheWire](https://cdenton1.github.io/2025/05/19/Bandit-Writeup-OverTheWire.html)
