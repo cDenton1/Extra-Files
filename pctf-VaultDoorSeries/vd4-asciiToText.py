@@ -1,3 +1,5 @@
+# This file was used in the PicoCTF Vault Door Series challenge, vault-door-4, https://play.picoctf.org/playlists/13?m=85, and was written by cDenton1 (me)
+
 # usage: convert ascii output from another command to readable text
 # example: cat vd4Text.txt | python3 asciiText.py
 
