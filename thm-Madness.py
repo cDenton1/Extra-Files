@@ -1,4 +1,4 @@
-# This program was used in the TryHackMe room, Madness, https://tryhackme.com/r/room/madness, and was written by me. 
+# This program was used in the TryHackMe room, Madness, https://tryhackme.com/r/room/madness, and was written by cDenton1 (me) 
 
 # At one point during the challenge the user must figure out the secret number to continue looking for the 
 # flags. An easy way to complete this part of the challenge is either 1) using an application like Burpsuite, 
