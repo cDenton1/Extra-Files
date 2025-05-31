@@ -31,7 +31,11 @@ Labeling convention: **Event Platform - Name of Event/Challenge**
 - **Inverse-Converse.py**: Inverse Converse, decrypt the ciphertext using the provided c and k values
 - Read more about each challenge on my blog, [MagpieCTF 2025](https://cdenton1.github.io/2025/02/28/MagpieCTF-25.html)
 ### Bandit - OverTheWire
-- **bandit24.sh**: shell script used for completing level 23 -> 24
-- **bandit25.sh**: shell script used for completing level 24 -> 25
-- **bandit25-a2.sh**: more complex shell script for completing level 24 -> 25
+- **bandit24.sh**: Shell script used for completing level 23 -> 24
+- **bandit25.sh**: Shell script used for completing level 24 -> 25
+- **bandit25-a2.sh**: More complex shell script for completing level 24 -> 25
 - Read about my experience and writeup for each level on my blog, [Bandit Writeup - OverTheWire](https://cdenton1.github.io/2025/05/19/Bandit-Writeup-OverTheWire.html)
+### Vault Door Series - PicoCTF
+- **vd1-solution.py**: Converted an array from Java into Python and reconstrust the scrambled password to the vault
+- **vd3-solution.py**: Reversed engineered Java source code to reconstrust the password to the vault
+- **vd4-asciiToText.py**: Convert ascii output from another command into human readable text
