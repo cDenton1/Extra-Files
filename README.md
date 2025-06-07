@@ -36,6 +36,7 @@ Labeling convention: **Event Platform - Name of Event/Challenge**
 - **bandit25-a2.sh**: More complex shell script for completing level 24 -> 25
 - Read about my experience and writeup for each level on my blog, [Bandit Writeup - OverTheWire](https://cdenton1.github.io/2025/05/19/Bandit-Writeup-OverTheWire.html)
 ### Vault Door Series - PicoCTF
-- **vd1-solution.py**: Converted an array from Java into Python and reconstrust the scrambled password to the vault
-- **vd3-solution.py**: Reversed engineered Java source code to reconstrust the password to the vault
+- **vd1-solution.py**: Converted an array from Java into Python to reconstrust the scrambled password
+- **vd3-solution.py**: Reversed engineered Java source code to reconstrust the password
 - **vd4-asciiToText.py**: Convert ascii output from another command into human readable text
+- **vd5-solution.py**: Take the encoded string, decode from base64 and then url decode it, and print the password 
