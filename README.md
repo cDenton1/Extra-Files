@@ -39,4 +39,9 @@ Labeling convention: **Event Platform - Name of Event/Challenge**
 - **vd1-solution.py**: Converted an array from Java into Python to reconstrust the scrambled password
 - **vd3-solution.py**: Reversed engineered Java source code to reconstrust the password
 - **vd4-asciiToText.py**: Convert ascii output from another command into human readable text
-- **vd5-solution.py**: Take the encoded string, decode from base64 and then url decode it, and print the password 
+- **vd5-solution.py**: Take the encoded string, decode from base64 and then url decode it, and print the password
+### CyberSci Nationals 2025 - In Person Event
+- **solution-256.py**, quick script whipped up for solving a cryptography challenge
+- Read all about the event and other challenges over on my blog, [CyberSci Nationals 2025](https://cdenton1.github.io/2025/06/19/CyberSci-Nationals-25.html)
+### AL1C3 1N PWND3RLAND CTF - In Person Event
+- **extractEmbeddedFiles.py**: Written to extract an embedded ZIP archive from a PDF file
