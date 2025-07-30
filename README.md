@@ -44,4 +44,4 @@ Labeling convention: **Event Platform - Name of Event/Challenge**
 - **solution-256.py**, quick script whipped up for solving a cryptography challenge
 - Read all about the event and other challenges over on my blog, [CyberSci Nationals 2025](https://cdenton1.github.io/2025/06/19/CyberSci-Nationals-25.html)
 ### AL1C3 1N PWND3RLAND CTF - In Person Event
-- **extractEmbeddedFiles.py**: Written to extract an embedded ZIP archive from a PDF file
+- **extractFromPDF.py**: Written to extract an embedded ZIP archive from a PDF file
